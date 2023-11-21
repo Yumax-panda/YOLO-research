@@ -1,3 +1,3 @@
 # YOLO-research
 
-研究プロジェクト後半で使用したコード
+`/models`にあるファイルをgoogle colabの`/content`ディレクトリへ配置。`setup()`のコメントアウトを外せば動くと思います。
